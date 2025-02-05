@@ -9,7 +9,7 @@
       
       <div class="flex justify-center gap-12 mb-12">
         <!-- Email -->
-        <a href="mailto:your-ayushs24101@iiitnr.edu.in" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
+        <a href="mailto:ayushs24101@iiitnr.edu.in" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-8 h-8">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7l9 6 9-6"></path>
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 7v10l9 6 9-6V7"></path>
