@@ -26,7 +26,7 @@
         </a>
 
       
-        <a href="https://github.com/Ayushjo" target="_blank" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
+        <a href="https://www.linkedin.com/in/ayush-singh-36539734b/" target="_blank" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-8 h-8">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 2C6.48 2 2 6.48 2 12c0 4.41 3.29 8.08 7.73 9.39.56.1.76-.24.76-.51 0-.27-.01-1.03-.01-2.02-3.14.68-3.8-1.52-3.8-1.52-.51-1.29-1.24-1.63-1.24-1.63-.99-.68.07-.67.07-.67 1.09.08 1.66 1.13 1.66 1.13 1.03 1.77 2.71 1.26 3.36.97.1-.74.4-1.26.73-1.56-2.28-.26-4.66-1.14-4.66-5.08 0-1.12.4-2.04 1.06-2.76-.11-.26-.46-1.3.1-2.72 0 0 .85-.27 2.77 1.02a9.674 9.674 0 014.93 0c1.91-1.3 2.77-1.02 2.77-1.02.57 1.42.21 2.46.1 2.72.66.72 1.06 1.64 1.06 2.76 0 3.94-2.38 4.82-4.66 5.08.42.36.81 1.07.81 2.15 0 1.55-.01 2.8-.01 3.19 0 .28.2.61.76.51A9.96 9.96 0 0022 12c0-5.52-4.48-10-10-10z"></path>
           </svg>
