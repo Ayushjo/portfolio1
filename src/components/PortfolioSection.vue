@@ -54,8 +54,8 @@ const projects = [
     link: "#"
   },
   {
-    title: "Weather App",
-    description: "A weather app showing real-time weather data and forecasts.",
+    title: "Mock Food Delivery",
+    description: "Mock Restaurant App ",
     techStack: "Tailwind, JS, Bootstrap",
     image: TomatoImg,
     link: "#"
