@@ -1,6 +1,6 @@
 <template>
   <div class="scroll-smooth">
-    <section id="Home" class="bg-[#F5ECD5] min-h-screen flex items-center justify-center relative">
+    <section id="Home" class="Block bg-[#F5ECD5] min-h-screen flex items-center justify-center relative">
       <div class="container mx-auto px-6 text-center">
         
         <h1 class="text-4xl md:text-6xl font-bold text-[#3D3D3D] leading-tight font-poppins">
@@ -31,11 +31,11 @@
       </div>
     </section>
 
-    <About id="About" />
-    <FeaturedSkills id="Skills" />
-    <PortfolioSection id="Projects" />
-    <Testimonials id="Testimonials" />
-    <Contact id="Contact" />
+    <About class="Block" id="About" />
+    <FeaturedSkills class='Block' id="Skills" />
+    <PortfolioSection class="Block" id="Projects" />
+    <Testimonials class="Block" id="Testimonials" />
+    <Contact class="Block" id="Contact" />
   </div>
 </template>
 
@@ -99,6 +99,23 @@ onMounted(() => {
   50% {
     opacity: 0;
   }
+}
+@keyframes appear {
+  from {
+    opacity: 0;
+    scale: 0.5;
+  }
+  to {
+    opacity: 1;
+    scale: 1;
+  }
+
+  
+}
+.Block{
+  animation: appear linear;
+  animation-timeline: view();
+  animation-range: entry 0% cover 40%;
 }
 </style>
 
