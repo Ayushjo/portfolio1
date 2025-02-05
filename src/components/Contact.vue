@@ -18,7 +18,7 @@
         </a>
 
      
-        <a href="https://www.linkedin.com/in/your-profile" target="_blank" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
+        <a href="https://www.linkedin.com/in/ayush-singh-36539734b/" target="_blank" class="flex items-center space-x-2 hover:text-[#FFF9EC] transition-all duration-300 transform hover:scale-105">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" class="w-8 h-8">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 8a6 6 0 11-12 0 6 6 0 0112 0zM3 12v8h4v-8H3zm14 0v8h4v-8h-4z"></path>
           </svg>
